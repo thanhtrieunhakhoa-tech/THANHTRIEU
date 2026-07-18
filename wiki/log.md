@@ -50,3 +50,9 @@ Nạp nguồn `Copy of BẢNG GIÁ NHA KHOA (1).xlsx` (Excel 7 sheet) vào wiki.
 - So sánh (2): [[so-sanh-cac-dong-tru-implant]], [[so-sanh-cac-dong-rang-su]].
 - Cập nhật `index.md` và `tong-quan.md`.
 - Không có mâu thuẫn (nguồn đầu tiên). Ghi chú vài ô nhập tắt cần xác nhận (800/500/600 → nghìn).
+
+## [2026-07-18] ingest | Bản đọc-trên-web cho bảng giá
+
+Tạo `raw/assets/BANG-GIA-NHA-KHOA_ban-doc-tren-web.md` — bản Markdown trung thực toàn bộ 7 sheet
+để xem thẳng trên GitHub (file `.xlsx` không hiển thị được trên web). File `.xlsx` gốc giữ nguyên
+làm nguồn chân lý. Đã liên kết từ [[bang-gia-nha-khoa-thanh-trieu]].

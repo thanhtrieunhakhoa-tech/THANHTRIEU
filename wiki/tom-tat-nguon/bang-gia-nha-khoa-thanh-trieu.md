@@ -15,6 +15,10 @@ tags:
 
 > Nguồn: file Excel `Copy of BẢNG GIÁ NHA KHOA  (1).xlsx` trong `raw/`, gồm **7 sheet**.
 > Đây là bảng giá dịch vụ của [[nha-khoa-thanh-trieu]].
+>
+> 📖 **Xem toàn văn không cần tải:** file Excel không hiển thị trên GitHub, nên có bản Markdown
+> trung thực xem thẳng trên web tại `raw/assets/BANG-GIA-NHA-KHOA_ban-doc-tren-web.md`.
+> (File `.xlsx` gốc vẫn là nguồn chân lý; bản md chỉ để tiện đọc.)
 
 ## Nguồn này chứa gì?
 
