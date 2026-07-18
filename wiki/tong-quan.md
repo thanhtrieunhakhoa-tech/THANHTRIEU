@@ -22,12 +22,16 @@ lần cần dùng.
 
 ## Hiện trạng
 
-- **Số nguồn trong `raw/`:** 0 (chưa nạp nguồn nào — vault vừa được khởi tạo ngày 2026-07-18).
-- **Số trang wiki:** 3 trang hệ thống (`index`, `log`, `tong-quan`); chưa có trang nội dung.
-- **Trạng thái:** Khung đã dựng xong, sẵn sàng nạp nguồn đầu tiên.
+- **Số nguồn trong `raw/`:** 1 — bảng giá Nha khoa Thanh Triều (`Copy of BẢNG GIÁ NHA KHOA (1).xlsx`, đã nạp ngày 2026-07-18).
+- **Số trang wiki:** 3 trang hệ thống + 12 trang nội dung (1 thực thể, 8 khái niệm dịch vụ, 1 tóm tắt nguồn, 2 so sánh).
+- **Trạng thái:** Đã nạp nguồn đầu tiên. Chủ đề hiện tại: **dịch vụ & bảng giá nha khoa**.
 
-*Khi có file `.srt` được đặt vào `raw/`, hãy chạy quy trình "Nạp nguồn" (mục 5 trong `CLAUDE.md`)
-để bắt đầu xây dựng wiki.*
+## Chủ đề đã có trong wiki
+
+- Thực thể trung tâm: [[nha-khoa-thanh-trieu]].
+- Các nhóm dịch vụ: [[cay-ghep-implant]], [[rang-su-va-dan-su]], [[dieu-tri-tuy-noi-nha]],
+  [[nho-rang-va-tieu-phau]], [[tram-rang]], [[tay-trang-va-tham-my-rang]],
+  [[ve-sinh-rang-nha-chu]], [[ham-thao-lap]].
 
 ## Điều hướng
 

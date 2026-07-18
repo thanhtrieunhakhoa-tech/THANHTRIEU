@@ -37,3 +37,16 @@ Khởi tạo toàn bộ "Bộ não thứ hai" hôm nay:
   Ingest/Query/Lint).
 - Khởi tạo `wiki/index.md`, `wiki/log.md`, `wiki/tong-quan.md`.
 - Hiện `raw/` **chưa có nguồn** nào. Sẵn sàng nạp nguồn đầu tiên.
+
+## [2026-07-18] ingest | Bảng giá Nha khoa Thanh Triều
+
+Nạp nguồn `Copy of BẢNG GIÁ NHA KHOA (1).xlsx` (Excel 7 sheet) vào wiki. Chạm **12 trang mới**:
+
+- Tóm tắt nguồn: [[bang-gia-nha-khoa-thanh-trieu]].
+- Thực thể: [[nha-khoa-thanh-trieu]].
+- Khái niệm dịch vụ (8): [[ve-sinh-rang-nha-chu]], [[nho-rang-va-tieu-phau]], [[tram-rang]],
+  [[dieu-tri-tuy-noi-nha]], [[tay-trang-va-tham-my-rang]], [[rang-su-va-dan-su]],
+  [[cay-ghep-implant]], [[ham-thao-lap]].
+- So sánh (2): [[so-sanh-cac-dong-tru-implant]], [[so-sanh-cac-dong-rang-su]].
+- Cập nhật `index.md` và `tong-quan.md`.
+- Không có mâu thuẫn (nguồn đầu tiên). Ghi chú vài ô nhập tắt cần xác nhận (800/500/600 → nghìn).

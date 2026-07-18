@@ -3,7 +3,8 @@ tieu_de: Chỉ mục Wiki
 loai: tong-quan
 ngay_tao: 2026-07-18
 ngay_cap_nhat: 2026-07-18
-nguon: []
+nguon:
+  - Copy of BẢNG GIÁ NHA KHOA  (1).xlsx
 tags:
   - chi-muc
   - dieu-huong
@@ -13,40 +14,38 @@ tags:
 
 > Danh mục MỌI trang trong wiki, tổ chức theo hạng mục. Mỗi trang một dòng kèm tóm tắt một
 > dòng. **Cập nhật MỖI lần nạp nguồn.** Mọi truy vấn bắt đầu từ đây.
->
-> Định dạng mỗi dòng: `- [[ten-file]] — tóm tắt một dòng.`
 
 ---
 
 ## 🧑 Thực thể (`wiki/thuc-the/`)
 
-*Người, tổ chức, sản phẩm, địa điểm cụ thể.*
-
-*(chưa có trang nào — sẽ điền khi nạp nguồn)*
+- [[nha-khoa-thanh-trieu]] — Phòng khám nha khoa (Vĩnh Long); thông tin liên hệ, danh mục dịch vụ, chính sách.
 
 ---
 
 ## 💡 Khái niệm (`wiki/khai-niem/`)
 
-*Ý tưởng, phương pháp, thuật ngữ, quy trình.*
-
-*(chưa có trang nào — sẽ điền khi nạp nguồn)*
+- [[ve-sinh-rang-nha-chu]] — Cạo vôi, điều trị nha chu, viêm nướu.
+- [[nho-rang-va-tieu-phau]] — Nhổ răng sữa/hàm/khôn, cắt thắng môi, nạo nang.
+- [[tram-rang]] — Trám răng cối, răng cửa thẩm mỹ, răng sữa, Composite.
+- [[dieu-tri-tuy-noi-nha]] — Nội nha răng cửa/cối, MTA, cùi & chốt.
+- [[tay-trang-va-tham-my-rang]] — Tẩy trắng tại nhà/ghế nha/VIP, đính hột xoàn.
+- [[rang-su-va-dan-su]] — Các dòng răng sứ và dán sứ Veneer/Inlay/Onlay.
+- [[cay-ghep-implant]] — Trụ Implant đơn, All-On-4/6, Abutment, phẫu thuật kèm.
+- [[ham-thao-lap]] — Răng nhựa, hàm khung kim loại/Titan, sửa hàm.
 
 ---
 
 ## 📄 Tóm tắt nguồn (`wiki/tom-tat-nguon/`)
 
-*Một trang tóm tắt cho mỗi nguồn trong `raw/`.*
-
-*(chưa có trang nào — sẽ điền khi nạp nguồn)*
+- [[bang-gia-nha-khoa-thanh-trieu]] — Bảng giá dịch vụ (file Excel 7 sheet) của Nha khoa Thanh Triều.
 
 ---
 
 ## ⚖️ So sánh (`wiki/so-sanh/`)
 
-*Bảng đối chiếu, so sánh nhiều đối tượng.*
-
-*(chưa có trang nào — sẽ điền khi nạp nguồn)*
+- [[so-sanh-cac-dong-tru-implant]] — 5 dòng trụ Implant theo giá & bảo hành.
+- [[so-sanh-cac-dong-rang-su]] — Các dòng răng sứ theo giá & bảo hành.
 
 ---
 
