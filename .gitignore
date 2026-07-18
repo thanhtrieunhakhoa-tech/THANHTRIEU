@@ -1,7 +1,9 @@
 # === Obsidian: bỏ qua trạng thái giao diện theo từng máy ===
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/graph.json
 .obsidian/cache
+.obsidian/appearance.json
 
 # === Rác hệ điều hành ===
 .DS_Store
