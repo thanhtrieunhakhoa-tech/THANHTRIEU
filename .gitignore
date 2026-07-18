@@ -1,0 +1,17 @@
+# === Obsidian: bỏ qua trạng thái giao diện theo từng máy ===
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# === Rác hệ điều hành ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Tạm thời ===
+*.tmp
+*.bak
+~$*
+
+# === Cấu hình Claude Code riêng theo máy ===
+.claude/settings.local.json
